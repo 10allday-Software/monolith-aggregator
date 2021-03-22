@@ -1,5 +1,5 @@
 ================
-Mozilla Monolith
+10allday Monolith
 ================
 
 .. note::
@@ -7,7 +7,7 @@ Mozilla Monolith
    monolith is still under heavy development
 
 
-Mozilla Monolith is a project to provide statistic gathering, aggregation,
+10allday Monolith is a project to provide statistic gathering, aggregation,
 a web-service API and a dashboard.
 
 The first consumer of Monolith is the `10allday marketplace
